@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+}
+
+header {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-color: chocolate;
+}
+
+.flexform {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
+
+.border-radius {
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.margin-bottom {    
+    margin-bottom: 20px;
+}
